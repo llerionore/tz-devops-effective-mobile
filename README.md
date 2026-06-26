@@ -25,6 +25,8 @@ curl http://localhost
 Как результат, должно выйти:
 "Hello from Effective Mobile!"
 
+Или можно прописать в браузере http://localhost (без портов), на экране должна появиться та же надпись.
+
 ## Остановка
 ```bash
 docker compose down
